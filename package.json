@@ -1,0 +1,12 @@
+{
+  "name": "iuh-admission-testing-with-selenium",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha index --timeout 10000"
+  },
+  "devDependencies": {
+    "selenium-webdriver": "^4.1.1",
+    "dotenv": "^16.0.0",
+    "mocha": "^9.2.2"
+  }
+}
